@@ -24,6 +24,11 @@ This project is two fold, The first part is simulating the credit card data usin
 
 Here we define the objective function: Here we are trying to maximize the Net Profit 
 and give constraints and then solve.
+![image](https://user-images.githubusercontent.com/20480964/224130780-2229ec4e-a0ee-4f63-9b61-97a18a9a2db0.png)
+
+Constraints :  <br /> 
+Lower Limit of credit limit should be same as current limit  <br /> 
+Upper Limit of credit limit should be either 20 % more than that of current credit limit or at most 25000 which ever is lower
 
 
  
