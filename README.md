@@ -1,6 +1,6 @@
 # Credit-Card-Portfolio-Optimization-using-Python-Pulp-Package-
 
-This project is two fold, The first part is simulating the credit card data using basic variables, The second part is Optimization using Pulp Package Liner Programming
+This project is two fold, The first part is simulating the credit card portfolio data using basic variables, The second part is Optimization using Pulp Package Liner Programming
 
 
 
