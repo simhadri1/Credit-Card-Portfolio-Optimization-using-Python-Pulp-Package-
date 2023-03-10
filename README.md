@@ -4,7 +4,7 @@ This project is two fold, The first part is simulating the credit card portfolio
 
 
 
-<h2> 1)simulating the credit card data basic variables such as: </h2>
+<h2> 1)Simulating the credit card data basic variables such as: </h2>
 
 - account_id	,
 - credit_limit( current),
@@ -22,7 +22,7 @@ This project is two fold, The first part is simulating the credit card portfolio
 
  <h2> 2) The second part is Optimization :  </h2>
 
-Here we define the objective function: Here we are trying to maximize the Net Profit 
+In this part we define the objective function: We are trying to maximize the Net Profit ( Fee + interest - loss given default )
 and give constraints and then solve.
 ![image](https://user-images.githubusercontent.com/20480964/224130780-2229ec4e-a0ee-4f63-9b61-97a18a9a2db0.png)
 
